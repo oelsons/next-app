@@ -1,0 +1,5 @@
+npm init -y
+npm install --save react react-dom next //start project
+npm install --save express //routing clean url server side
+npm install --save isomorphic-unfetch //fetching framework client&server
+npm install --save react-markdown //global styles
